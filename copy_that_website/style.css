@@ -1,0 +1,156 @@
+#joinButton{
+    display: flex;
+    background-color: black;
+    color:white;
+    justify-content: center;
+    font-size: 10px;
+}
+
+#above{
+    display: flex;
+    justify-content: space-between;
+}
+
+#navBar{
+    display:flex;
+    font-size: 15px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.shoe{
+    height:800px;
+}
+.adidasLogo{
+    height:50px;
+}
+#ad{
+    display: flex;
+    position: relative;
+    text-align: center;
+    color:white;
+}
+
+.words1{
+    font-size:40px;
+    position: absolute;
+    top: 190px;
+    left:16px;
+}
+.words2{
+    font-size:40px;
+    position: absolute;
+    top: 230px;
+    left:16px;
+}
+.words3{
+    font-size:20px;
+    position: absolute;
+    top: 300px;
+    left:16px;
+}
+.words4{
+    font-size:20px;
+    position: absolute;
+    top: 330px;
+    left:16px;
+}
+.words5{
+    color:black;
+    font-size:20px;
+    position: absolute;
+    top: 370px;
+    left:16px;
+    padding: 10px; 
+    border: 2px outset white;
+    background-color: white;
+}
+.text1{
+    color:black;
+    position: absolute;
+    top: 100px;
+    left:550px;
+}
+.text2{
+    color:black;
+    position: absolute;
+    top: 100px;
+    left:610px;
+}
+.text3{
+    color:black;
+    position: absolute;
+    top: 100px;
+    left:690px;
+}
+.text4{
+    color:black;
+    position: absolute;
+    top: 100px;
+    left:750px;
+}
+.text5{
+    color:black;
+    position: absolute;
+    top: 100px;
+    left:900px;
+}
+.text6{
+    color:black;
+    position: absolute;
+    top: 100px;
+    left:960px;
+}
+.navBarTools{
+    height:30px;
+    position: absolute;
+    top: 100px;
+    left:1400px;
+}
+.one,.two,.three,.four{
+    font-size: 15px;
+}
+
+.one{
+    position: absolute;
+    top: 60px;
+    left:1400px;
+}
+.two{
+    position: absolute;
+    top: 60px;
+    left:1450px;
+}
+
+.three{
+    position: absolute;
+    top: 60px;
+    left:1590px;
+}
+
+.text1:hover{
+    background-color: rgb(223, 215, 215);
+    opacity: 0.5;
+}
+.text2:hover{
+    background-color: rgb(223, 215, 215);
+    opacity: 0.5;
+}
+.text3:hover{
+    background-color: rgb(223, 215, 215);
+    opacity: 0.5;
+}
+.text4:hover{
+    background-color: rgb(223, 215, 215);
+    opacity: 0.5;
+}
+.text5:hover{
+    background-color: rgb(223, 215, 215);
+    opacity: 0.5;
+}
+.text6:hover{
+    background-color: rgb(223, 215, 215);
+    opacity: 0.5;
+}
